@@ -1,4 +1,5 @@
-const BACKEND_URL = "http://localhost:3000";
+// const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://mezbaanb.onrender.com";
 export default {
     AT_YOUR_CITY:BACKEND_URL+"/restaurant/at-your-city",
     SEARCH_RESTAURANTS:BACKEND_URL+"/restaurant/search",
